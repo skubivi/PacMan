@@ -1,1 +1,2 @@
-PacMan2
+PacMan
+Игра пакман
